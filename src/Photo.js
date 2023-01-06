@@ -1,8 +1,6 @@
 import React from 'react';
 
-class Photo extends React.Component {
-  
-
+function Photo () {
   
 }
 
